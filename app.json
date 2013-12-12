@@ -1,0 +1,13 @@
+{
+"reponame":"sample-web-video-playback",
+"title":"CSS Animation",
+"tooltip":"[App Designer Ready] This sample contains embedded videos from Youtube, Vimeo and the local directory.",
+"description":"[App Designer Ready] This sample contains embedded videos from Youtube, Vimeo and the local directory.",
+"articleUrl":"http://software.intel.com/en-us/articles/intel-xdk-css-animation-sample",
+"keywords":["Video Playback"],
+"visible" : "false",
+"highlights" : ["Video Playback"],
+"apppreview":"false",
+"appname":"demo.webvideoplayback",
+"relname":"4.0.0"
+}
