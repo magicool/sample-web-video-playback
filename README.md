@@ -52,5 +52,6 @@ App Framework (formerly jQ.Mobi)
 * source:  https://github.com/01org/appframework
 * license: https://github.com/01org/appframework/blob/master/license.txt
  
-Videos (appdesigner)
-
+Videos (appdesigner-gettingstarted.mp4)
+-----------------------------------------------------------------------------
+all videos are created by Intel Corp.
