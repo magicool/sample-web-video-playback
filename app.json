@@ -1,6 +1,7 @@
 {
 "reponame":"sample-web-video-playback",
 "title":"Web Video Playback",
+"abbr":"Web Video P/B",
 "tooltip":"[App Designer Ready] This sample contains embedded videos from Youtube, Vimeo and the local directory.",
 "description":"[App Designer Ready] This sample contains embedded videos from Youtube, Vimeo and the local directory.",
 "articleUrl":"http://software.intel.com/en-us/html5/articles/developing-with-web-video-elements-using-intel-xdk",
