@@ -10,5 +10,6 @@
 "highlights" : ["App Designer", "Video Playback"],
 "apppreview":"true",
 "appname":"demo.webvideoplayback",
-"relname":"4.0.0"
+"relname":"4.0.0",
+"type":"appdesigner"
 }
