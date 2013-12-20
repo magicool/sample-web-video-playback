@@ -8,7 +8,7 @@
 "keywords":["App Designer", "Video Playback"],
 "visible" : "true",
 "highlights" : ["App Designer", "Video Playback"],
-"apppreview":"false",
+"apppreview":"true",
 "appname":"demo.webvideoplayback",
 "relname":"4.0.0"
 }
