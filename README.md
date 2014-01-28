@@ -51,7 +51,17 @@ App Framework (formerly jQ.Mobi)
 -----------------------------------------------------------------------------
 * source:  https://github.com/01org/appframework
 * license: https://github.com/01org/appframework/blob/master/license.txt
- 
-Videos (appdesigner-gettingstarted.mp4)
+
+Video (Amazing nature in Time Lapse-YouTube)
 -----------------------------------------------------------------------------
-all videos are created by Intel Corp.
+*source:  https://www.youtube.com/watch?v=PPcnL8d5wcM
+*license: http://www.youtube.com/yt/copyright/creative-commons.html
+
+Video (3 years of filming nature-vimeo)
+-----------------------------------------------------------------------------
+*source:  http://vimeo.com/83968874
+*license: http://creativecommons.org/licenses/by/3.0/
+
+Video (appdesigner-gettingstarted.mp4)
+-----------------------------------------------------------------------------
+Video are created by Intel Corp.
